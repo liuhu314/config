@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+    <!--all models in here-->
+    <models>
+        <!-- 基础配置文件路径信息-->
+        <model>
+            <path>
+                resources/system/
+            </path>
+            <name>
+                system
+            </name>
+            <class>
+                config.System
+            </class>
+        </model>
+
+        <!-- 模块配置文件路径信息-->
+        <model>
+            <path>
+                resources/module/
+            </path>
+            <name>
+                module
+            </name>
+            <class>
+                config.Module
+            </class>
+
+        </model>
+
+        <!-- 模块配置文件路径信息-->
+        <model>
+            <path>
+                resources/other/
+            </path>
+            <name>
+                other
+            </name>
+            <class>
+                config.Other
+            </class>
+
+        </model>
+
+        <!-- 测试配置文件路径信息-->
+        <model>
+            <path>
+                resources/test/
+            </path>
+            <name>
+                test
+            </name>
+            <class>
+                config.Test
+            </class>
+        </model>
+
+    </models>
+</root>

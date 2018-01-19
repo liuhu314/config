@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <type>
+        map
+    </type>
+    <primarykey>
+        key1
+    </primarykey>
+    <data key1="valueR1_1" key2="valueR1_2" key3="valueR1_3"/>
+    <data key1="valueR2_1" key2="valueR2_2" key3="valueR2_3"/>
+    <data key1="valueR3_1" key2="valueR2_2" key3="ValueR3_3"/>
+</root>
